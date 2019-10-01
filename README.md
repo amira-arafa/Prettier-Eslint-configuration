@@ -1,4 +1,5 @@
 # Prettier-Eslint-configuration
+
 1) install both eslint and prettier
     ---> npm install -g prettier eslint
 2) run eslint in a certain project 
@@ -18,3 +19,6 @@
       vscode -> view -> command palette -> open workspace setting -> search on :"editor.formatOnSave": true
 7) start linting files --->
      eslint **/*.js <<path of the file
+
+
+
