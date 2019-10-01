@@ -5,7 +5,7 @@
 2) run eslint in a certain project 
     ---> eslint --init 
 then answer the questions with this answers 
-->>>To check syntax and find problems 
+->>>To check syntax and find problems and inforce code style
 ->>>None of these
 ->>>React
 ->>>No
