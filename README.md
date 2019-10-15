@@ -23,8 +23,10 @@ then answer the questions with this answers
           "prettier/prettier": ["error"]
         }
       }
-6) to turn on auto format --->
+6) to turn on auto format of prettier --->
       vscode -> view -> command palette -> open workspace setting -> search on :"editor.formatOnSave": true
+7) to turn on auto format of eslint ---> 
+ vscode -> view -> command palette -> open workspace setting -> search on >>autoFixOnSave
 7) start linting files --->
      eslint **/*.js <<path of the file
 
